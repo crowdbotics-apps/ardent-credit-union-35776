@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-articles](backend/modules)
 - [screen-order-complete](screens/order-complete)
 - [screen-menu](screens/menu)
+- [screen-contact-us](screens/contact-us)
 
 # Getting started: Frontend
 

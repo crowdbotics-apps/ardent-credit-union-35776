@@ -1221,10 +1221,13 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/contact-us@file:./screens/contact-us/":
+  version "1.0.0"
+
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
-"@screens/menu@file:./screens/menu/":
+"@screens/menu@file:./screens/menu":
   version "1.0.0"
 
 "@screens/order-complete@file:./screens/order-complete":
