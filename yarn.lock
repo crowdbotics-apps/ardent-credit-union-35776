@@ -1227,7 +1227,7 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
-"@screens/leaderboard-screen@file:./screens/leaderboard-screen/":
+"@screens/leaderboard-screen@file:./screens/leaderboard-screen":
   version "1.0.0"
 
 "@screens/menu@file:./screens/menu":
@@ -1237,6 +1237,9 @@
   version "1.0.0"
 
 "@screens/signup@file:./screens/signup":
+  version "1.0.0"
+
+"@screens/terms-and-conditions@file:./screens/terms-and-conditions/":
   version "1.0.0"
 
 "@screens/token@file:./screens/token":

@@ -24,6 +24,7 @@
     "@screens/menu": "file:./screens/menu/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/signup": "file:./screens/signup/",
+    "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@screens/token": "file:./screens/token/",
     "axios": "^0.21.1",
     "react": "17.0.1",
