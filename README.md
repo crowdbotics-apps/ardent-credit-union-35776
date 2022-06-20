@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-contact-us](screens/contact-us)
 - [screen-leadboard](screens/leaderboard-screen)
 - [screen-terms-and-conditions](screens/terms-and-conditions)
+- [screen-profile](screens/profile)
 
 # Getting started: Frontend
 
