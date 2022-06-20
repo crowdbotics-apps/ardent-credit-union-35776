@@ -20,6 +20,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
+    "@screens/leaderboard-screen": "file:./screens/leaderboard-screen/",
     "@screens/menu": "file:./screens/menu/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/signup": "file:./screens/signup/",

@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-complete](screens/order-complete)
 - [screen-menu](screens/menu)
 - [screen-contact-us](screens/contact-us)
+- [screen-leadboard](screens/leaderboard-screen)
 
 # Getting started: Frontend
 
