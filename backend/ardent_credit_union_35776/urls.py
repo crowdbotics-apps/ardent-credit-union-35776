@@ -35,9 +35,9 @@ urlpatterns = [
     path("rest-auth/registration/", include("rest_auth.registration.urls")),
 ]
 
-admin.site.site_header = "Ardent Credit Union MVP"
-admin.site.site_title = "Ardent Credit Union MVP Admin Portal"
-admin.site.index_title = "Ardent Credit Union MVP Admin"
+admin.site.site_header = "melv-rapidproto-traid"
+admin.site.site_title = "melv-rapidproto-traid Admin Portal"
+admin.site.index_title = "melv-rapidproto-traid Admin"
 
 # swagger
 api_info = openapi.Info(
